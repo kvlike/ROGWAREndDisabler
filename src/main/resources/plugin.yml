@@ -1,0 +1,7 @@
+name: ROGPLUGIN
+version: ${project.version}
+main: me.kvlike.rogplugin.ROGPLUGIN
+api-version: 1.16
+commands:
+  end:
+    description: End command.
